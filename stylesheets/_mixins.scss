@@ -1,0 +1,9 @@
+@mixin dimensions ($width, $height){
+  width: $width;
+  height: $height;
+}
+
+@mixin image-dimensions($width, $height){
+  width: $width;
+  height: $height;
+}
